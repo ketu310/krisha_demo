@@ -1,2 +1,3 @@
 # krisha_demo
 This is my first Git Repository
+Author:krisha
